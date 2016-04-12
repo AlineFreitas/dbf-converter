@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    dbf (3.0.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  dbf (= 3.0.5)
+
+BUNDLED WITH
+   1.10.6
